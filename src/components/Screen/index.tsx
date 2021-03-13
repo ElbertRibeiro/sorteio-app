@@ -58,6 +58,8 @@ export default function Screen() {
             <View style={style.lineInput}>
                 <Text>Valor Máximo: </Text>
                 <TextInput
+                value={varMax.toString()}
+                onChangeText={value => setVarMax(value)}
                     textAlign="center"
                     keyboardType="number-pad"
                     maxLength={5}
