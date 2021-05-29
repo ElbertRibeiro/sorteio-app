@@ -6,7 +6,7 @@ import HomePage from './src/pages';
 export default function App() {
   return (
     <View>
-      <StatusBar style="auto" />
+      <StatusBar style="light" />
       <HomePage />
     </View>
   );
