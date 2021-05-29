@@ -11,21 +11,18 @@ export default function Screen() {
 
     const [flagInputFocus, setFlagInputFocus] = useState("");
 
-    const validarCampos = (min: any, max: any) => {
+    function validarCampos(min: number, max: number){
         if (isNaN(min) || isNaN(max)) {
             alert('Digite os valores');
             return false;
-        }
-
-        if (min > max) {
+        } else if (min > max) {
             alert('O valor mínimo deve ser menor que o valor máximo');
             return false;
         }
-
         return true;
     }
 
-    const gerateNumber = () => {
+    function gerateNumber() {
         const min = parseInt(varMin);
         const max = parseInt(varMax);
 
