@@ -11,7 +11,7 @@ export default function Screen() {
 
     const [flagInputFocus, setFlagInputFocus] = useState("");
 
-    function validarCampos(min: number, max: number){
+    function validarCampos(min: number, max: number) {
         if (isNaN(min) || isNaN(max)) {
             alert('Digite os valores');
             return false;
@@ -55,8 +55,8 @@ export default function Screen() {
             <View style={style.lineInput}>
                 <Text>Valor Máximo: </Text>
                 <TextInput
-                value={varMax.toString()}
-                onChangeText={value => setVarMax(value)}
+                    value={varMax.toString()}
+                    onChangeText={value => setVarMax(value)}
                     textAlign="center"
                     keyboardType="number-pad"
                     maxLength={5}
