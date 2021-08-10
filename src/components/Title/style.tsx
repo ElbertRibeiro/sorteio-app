@@ -1,6 +1,6 @@
 import { StyleSheet } from 'react-native';
 
-const style = StyleSheet.create({
+export const style = StyleSheet.create({
     boxTitle: {
         height: 80,
         backgroundColor: '#1f4f66',
@@ -17,5 +17,3 @@ const style = StyleSheet.create({
         color: '#fff'
     }
 });
-
-export default style;

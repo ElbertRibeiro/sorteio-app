@@ -1,6 +1,6 @@
 import { StyleSheet } from 'react-native';
 
-const style = StyleSheet.create({
+export const style = StyleSheet.create({
     screen: {
         width: '100%',
         justifyContent: "center",
@@ -54,5 +54,3 @@ const style = StyleSheet.create({
         marginLeft: 10
     }
 });
-
-export default style;

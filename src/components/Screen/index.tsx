@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 import { View, Text, Button, TextInput } from 'react-native';
 
-import style from './style';
+import { style } from './style';
 
-export default function Screen() {
+export function Screen() {
 
     const [numberSort, setNumberSort] = useState(0);
     const [varMin, setVarMin] = useState("0");
