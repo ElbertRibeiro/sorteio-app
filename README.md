@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src=".github/sorteiroapp.jpeg" width="60%">
+  <img alt="dev.finances" src=".github/sorteioapp.jpeg" width="60%">
 </p>
 
 ## 🚀 Tecnologias
