@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="Sorteio APP" src=".github/sorteioapp.jpeg" width="720">
+  <img alt="Sorteio APP" src=".github/sorteioapp.jpeg" width="60%">
 </p>
 
 ## 🚀 Tecnologias
