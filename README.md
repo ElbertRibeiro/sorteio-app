@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src=".github/sorteioapp.jpeg" width="60%">
+  <img alt="Sorteio APP" src=".github/sorteioapp.jpeg" width="720">
 </p>
 
 ## 🚀 Tecnologias
@@ -30,16 +30,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
-Para acessar o projeto ChatBot: https://elbertribeiro.github.io/chatbot/
-Para acessar os usuários cadastrados no mockapi.io: https://605a60b027f0050017c04dc0.mockapi.io/users
-Para acessar o repositório do projeto: https://github.com/elbertribeiro/chatbot
+O Sorteio APP é uma apicativo para de realização de sorteios dentro de uma quantidade de 
+numeros espesificada.
 
-
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance%24-Maratona-Discover). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
